@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            AlanWei
+tagline:          Internet Fanatic
+url:              http://alanwei.github.io
+paginate:         1
+baseurl:          http://alanwei.github.io/
+author:
+  name:           Alan Wei
+  url:            https://www.facebook.com/changran.wei
+  email:          alanweichangran@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
